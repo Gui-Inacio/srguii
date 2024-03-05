@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Inácio 👋
 
 #### Sobre
-<p style="text align center">Minha jornada no mundo da tecnologia começou quando descobri o fascinante universo da programação. Após me formar em um curso técnico na área, tive a oportunidade de participar de um projeto que conquistou o segundo lugar em uma feira, o que despertou ainda mais minha paixão pelo desenvolvimento de software.
+<p style="text align center">Minha jornada no mundo da tecnologia começou quando descobri o universo da programação. Após me formar em um curso técnico na área, tive a oportunidade de participar de um projeto que conquistou o segundo lugar em uma feira, o que despertou ainda mais minha paixão pelo desenvolvimento de software.
 
 Decidi então me aprofundar nessa área, explorando novas tecnologias e concentrando meus esforços no backend. Atualmente, estou imerso no aprendizado do desenvolvimento de API, onde direciono meu estudo e dedicação.
 
