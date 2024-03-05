@@ -1,7 +1,11 @@
 ### Olá! Eu sou o Guilherme Inácio 👋
 
 #### Sobre
-<p style="text align center">Ao conhecer a área do desenvolvimento, me apaixonei por programação, me formei em um curso técnico na área, no qual o projeto em que participei ficou em segundo lugar na feira, após isso, resolvi me aprofundar na área, conhecendo novas tecnologias e focando na parte em que mais gostei, o backend. Atualmente estou aprendendo a desenvolver API, no qual estou focando meu estudo. Progredindo a cada dia, um passo de cada vez!</p>
+<p style="text align center">Minha jornada no mundo da tecnologia começou quando descobri o fascinante universo da programação. Após me formar em um curso técnico na área, tive a oportunidade de participar de um projeto que conquistou o segundo lugar em uma feira, o que despertou ainda mais minha paixão pelo desenvolvimento de software.
+
+Decidi então me aprofundar nessa área, explorando novas tecnologias e concentrando meus esforços no backend. Atualmente, estou imerso no aprendizado do desenvolvimento de API, onde direciono meu estudo e dedicação.
+
+A cada dia, procuro progredir e aprimorar minhas habilidades, avançando um passo de cada vez rumo aos meus objetivos profissionais. Estou entusiasmado com as possibilidades que o mundo da programação oferece e comprometido em me tornar um desenvolvedor qualificado e inovador.</p>
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGuii&show_icons=true&theme=tokyonight)
 
