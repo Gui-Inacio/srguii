@@ -7,7 +7,7 @@ Decidi então me aprofundar nessa área, explorando novas tecnologias e concentr
 
 A cada dia, procuro progredir e aprimorar minhas habilidades, avançando um passo de cada vez rumo aos meus objetivos profissionais. Estou entusiasmado com as possibilidades que o mundo da programação oferece e comprometido em me tornar um desenvolvedor qualificado e inovador.</p>
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGuii&show_icons=true&theme=tokyonight)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui-Inacio&show_icons=true&theme=tokyonight)
 
 ## Tecnologias
 
